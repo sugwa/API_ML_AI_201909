@@ -35,7 +35,6 @@
 
 1、不需要很高的花费
 
-2、内容的规范（通过内容安全实现）
 
 # 最小完成项
 
@@ -45,15 +44,14 @@
 
 # 本产品主要运用的AI功能如下
 
-- 阿里云-图像识别-图像识别
+- [阿里云-图像识别-图像识别](https://ai.aliyun.com/image?spm=5176.233916.1243091.14.bc0d18f0674QKb)
 
-- 阿里云-人脸识别-人脸识别
+- [阿里云-人脸识别-人脸识别](https://ai.aliyun.com/face?spm=5176.233916.1243091.13.bc0d18f0674QKb)
 
-- 阿里云-智能语音交互-录音文件识别
+- [阿里云-智能语音交互-录音文件识别](https://ai.aliyun.com/nls/filetrans?spm=5176.233916.1243091.7.bc0d18f0674QKb)
 
-- 阿里云-机器翻译-机器翻译
+- [阿里云-机器翻译-机器翻译](https://ai.aliyun.com/alimt?spm=5176.233916.1243091.47.bc0d18f0674QKb)
 
-- 阿里云-内容安全
 
 # 人工智能概率性
 - 人脸识别
@@ -93,3 +91,17 @@
 #### 人脸识别寻找好友
 通过**阿里云的人脸识别**功能，快速找到在同一个电子纪念册中出现过这个用户的图片。
 
+# API的使用价格
+**图像识别**
+![图像识别价格1](https://gitee.com/NFUNM008/what/raw/master/%E5%9B%BE%E5%83%8F%E8%AF%86%E5%88%AB%E4%BB%B7%E6%A0%BC1.png)
+![图像识别价格2](https://gitee.com/NFUNM008/what/raw/master/%E5%9B%BE%E5%83%8F%E8%AF%86%E5%88%AB%E4%BB%B7%E6%A0%BC2.png)
+
+**人脸识别**
+![人脸识别价格](https://gitee.com/NFUNM008/what/raw/master/%E4%BA%BA%E8%84%B8%E8%AF%86%E5%88%AB%E4%BB%B7%E6%A0%BC.png)
+
+**录音文件识别**
+![录音文件识别价格1](https://gitee.com/NFUNM008/what/raw/master/%E5%BD%95%E9%9F%B3%E6%96%87%E4%BB%B6%E8%AF%86%E5%88%AB1.png)
+![录音文件识别价格2](https://gitee.com/NFUNM008/what/raw/master/%E5%BD%95%E9%9F%B3%E6%96%87%E4%BB%B6%E8%AF%86%E5%88%AB2.png)
+
+**机器翻译**
+![机器翻译价格](https://gitee.com/NFUNM008/what/raw/master/%E6%9C%BA%E5%99%A8%E7%BF%BB%E8%AF%91%E4%BB%B7%E6%A0%BC.png)
