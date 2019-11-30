@@ -64,9 +64,26 @@
 
 # 产品架构
 
+
 # API调用展示
 
-# API使用价格
+
+
+# API的使用价格
+**图像识别**
+![图像识别价格1](https://gitee.com/NFUNM008/what/raw/master/%E5%9B%BE%E5%83%8F%E8%AF%86%E5%88%AB%E4%BB%B7%E6%A0%BC1.png)
+![图像识别价格2](https://gitee.com/NFUNM008/what/raw/master/%E5%9B%BE%E5%83%8F%E8%AF%86%E5%88%AB%E4%BB%B7%E6%A0%BC2.png)
+
+**人脸识别**
+![人脸识别价格](https://gitee.com/NFUNM008/what/raw/master/%E4%BA%BA%E8%84%B8%E8%AF%86%E5%88%AB%E4%BB%B7%E6%A0%BC.png)
+
+**录音文件识别**
+![录音文件识别价格1](https://gitee.com/NFUNM008/what/raw/master/%E5%BD%95%E9%9F%B3%E6%96%87%E4%BB%B6%E8%AF%86%E5%88%AB1.png)
+![录音文件识别价格2](https://gitee.com/NFUNM008/what/raw/master/%E5%BD%95%E9%9F%B3%E6%96%87%E4%BB%B6%E8%AF%86%E5%88%AB2.png)
+
+**机器翻译**
+![机器翻译价格](https://gitee.com/NFUNM008/what/raw/master/%E6%9C%BA%E5%99%A8%E7%BF%BB%E8%AF%91%E4%BB%B7%E6%A0%BC.png)
+
 
 # 目标用户
 #### - 对制作电子纪念册有需求的应届毕业生
@@ -91,17 +108,12 @@
 #### 人脸识别寻找好友
 通过**阿里云的人脸识别**功能，快速找到在同一个电子纪念册中出现过这个用户的图片。
 
-# API的使用价格
-**图像识别**
-![图像识别价格1](https://gitee.com/NFUNM008/what/raw/master/%E5%9B%BE%E5%83%8F%E8%AF%86%E5%88%AB%E4%BB%B7%E6%A0%BC1.png)
-![图像识别价格2](https://gitee.com/NFUNM008/what/raw/master/%E5%9B%BE%E5%83%8F%E8%AF%86%E5%88%AB%E4%BB%B7%E6%A0%BC2.png)
+# 市场
+目前市面上已有的电子毕业纪念册多以视频软件为主，且视频像素清晰度不高
 
-**人脸识别**
-![人脸识别价格](https://gitee.com/NFUNM008/what/raw/master/%E4%BA%BA%E8%84%B8%E8%AF%86%E5%88%AB%E4%BB%B7%E6%A0%BC.png)
+# 运营
+**前期推广**
+通过线上线下投放广告，针对应届毕业生，特别是大学毕业生投放，让他们可以利用这个软件对自己身边的同学好友留一个纪念
 
-**录音文件识别**
-![录音文件识别价格1](https://gitee.com/NFUNM008/what/raw/master/%E5%BD%95%E9%9F%B3%E6%96%87%E4%BB%B6%E8%AF%86%E5%88%AB1.png)
-![录音文件识别价格2](https://gitee.com/NFUNM008/what/raw/master/%E5%BD%95%E9%9F%B3%E6%96%87%E4%BB%B6%E8%AF%86%E5%88%AB2.png)
-
-**机器翻译**
-![机器翻译价格](https://gitee.com/NFUNM008/what/raw/master/%E6%9C%BA%E5%99%A8%E7%BF%BB%E8%AF%91%E4%BB%B7%E6%A0%BC.png)
+**后期运营**
+用户进入稳定期后，我们可以根据不同的时间点或者是节假日推出一些特定的纪念册模板或贴着，吸引用户继续使用我们的软件。
