@@ -121,3 +121,14 @@
 
 **后期运营**
 用户进入稳定期后，我们可以根据不同的时间点或者是节假日推出一些特定的纪念册模板或贴着，吸引用户继续使用我们的软件。
+
+# 清单
+**本产品所用到的AI功能Python代码如下：**
+
+- [阿里云-图像识别-图像识别](https://help.aliyun.com/knowledge_detail/53540.html?spm=a2c4g.11186623.6.550.6a756fadvQL0EN)
+
+- [阿里云-人脸识别-人脸识别](https://help.aliyun.com/document_detail/118565.html?spm=a2c4g.11186623.6.558.7a107798bQkDyu)
+
+- [阿里云-智能语音交互-录音文件识别](https://help.aliyun.com/document_detail/94062.html?spm=a2c4g.11186623.6.588.29d82d95Npp0oB)
+
+- [阿里云-机器翻译-机器翻译](https://ai.aliyun.com/alimt?spm=5176.233916.1243091.47.bc0d18f0674QKb)
